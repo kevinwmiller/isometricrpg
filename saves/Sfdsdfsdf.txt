@@ -1,0 +1,18 @@
+Name: Sfdsdfsdf
+X-Pos: 100
+Y-Pos: 100
+Direction: 0
+Class: Ranger 
+Level: 1
+Experience: 0/100
+Health: 75/75
+Magic: 65/65
+Strength: 15/15
+Dexterity: 25/25
+Intelligence: 10/10
+Defense: 60/60
+Light-Radius: 4/4
+Speed: 275/275
+Vitality: 60/60
+Focus: 50/50
+Main Stat: Dexterity

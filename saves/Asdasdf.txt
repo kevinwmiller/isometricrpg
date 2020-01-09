@@ -1,0 +1,18 @@
+Name: Asdasdf
+X-Pos: 337.744
+Y-Pos: 228.291
+Direction: 6
+Class: Paladin 
+Level: 1
+Experience: 0/100
+Health: 85/85
+Magic: 85/85
+Strength: 20/20
+Dexterity: 10/10
+Intelligence: 15/15
+Defense: 75/75
+Light-Radius: 5/5
+Speed: 320/320
+Vitality: 70/70
+Focus: 70/70
+Main Stat: Strength
